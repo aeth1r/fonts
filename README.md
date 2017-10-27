@@ -1,3 +1,5 @@
+![Mecurial](variants/logo.svg)
+
 ### Mecurial is a icon library made by *[@aeth1r](http://github.com/aeth1r)*
 
 #### You can use it in css by putting this is in each of your html documents
