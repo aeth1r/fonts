@@ -8,4 +8,11 @@
 <link href="https://file.myfontastic.com/e6WccWene8JVWH8YkWQZmF/icons.css" rel="stylesheet"> 
 ```
 
+or 
+
+```html
+<link href="https://cdn.athelo.net/mecurial/mecurial.css" rel="stylesheet"> 
+```
+
+
 #### Please read the ```License``` before usage
