@@ -1,4 +1,4 @@
-[![Mecurial](http://aeth1r.athelo.net/mecurial/variants/logo.svg)](https://aeth1r.athelo.net/mecurial)
+[![Mecurial](http://www.athelo.net/mecurial/variants/logo.svg)](https://www.athelo.net/mecurial)
 
 ### Mecurial is a icon library made by *[@aeth1r](http://github.com/aeth1r)*
 
